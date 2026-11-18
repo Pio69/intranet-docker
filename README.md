@@ -28,4 +28,4 @@ A imagem copia os arquivos locais de `app/` para o Apache. A aplicação contém
 - AdminLTE e bibliotecas incluídas no projeto
 - Apache HTTP Server e Docker
 
-O histórico do antigo repositório Docker foi incorporado ao histórico deste projeto. Os links e recursos externos presentes nas páginas podem depender de serviços de terceiros.
+ Os links e recursos externos presentes nas páginas podem depender de serviços de terceiros.
