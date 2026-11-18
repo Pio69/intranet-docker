@@ -1,6 +1,6 @@
 # Intranet
 
-Site de intranet com páginas para acesso a informações e serviços, desenvolvido com HTML, CSS e JavaScript sobre o template AdminLTE. Este repositório reúne os arquivos do site e a configuração Docker que antes ficava em um repositório separado.
+Site de intranet com páginas para acesso a informações e serviços, desenvolvido com HTML, CSS e JavaScript sobre o template AdminLTE. Este repositório reúne os arquivos do site e a configuração Docker.
 
 ## Estrutura
 
